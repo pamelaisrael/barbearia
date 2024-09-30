@@ -107,7 +107,7 @@ nav a:hover {
 }
 
 .img_dir{
-    width: 200px;
+    width: 150px;
     animation: girar_dir  5s linear alternate infinite;
 }
 
